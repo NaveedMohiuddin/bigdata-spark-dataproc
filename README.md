@@ -19,10 +19,6 @@ I used **Scala, Spark DataFrames, SQL, and HDFS** to perform various transformat
  ┣ 📜 spark_assignment.scala (Scala Code)
  ┣ 📜 README.md
  ┣ 📂 screenshots
- ┃ ┣ 📜 foodratings_schema.png
- ┃ ┣ 📜 foodplaces_schema.png
- ┃ ┣ 📜 foodratings_ex3a.png
- ┃ ┗ 📜 ex6_inner_join.png
 ```
 
 ## 📊 Features Implemented
