@@ -50,7 +50,12 @@ spark-shell
 - Setting	up	to	Use	Spark	in	Dataproc:	
 - Start up a Hadoop cluster and type spark-shell 
 - Type this ```spark-shell```
+-Load the ‘foodratings’ file as a ‘csv’ file into a DataFrame called foodratings. 
+- When doing so specify a schema having fields of the following names and types: 
+
 ```
+![alt text](image-11.png)
+
 ![alt text](image.png)
 ![alt text](image-1.png)
 
