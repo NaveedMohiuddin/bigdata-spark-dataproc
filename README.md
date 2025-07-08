@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository contains my implementation of a **Big Data Assignment** using **Apache Spark on GCP Dataproc**.  
-I used **Scala, Spark DataFrames, SQL, and HDFS** to perform various transformations and queries.
+I used **Scala, Spark DataFrames, PysparkCLI, SQL, and HDFS** to perform various transformations and queries.
 
 ## 🛠 Technologies Used
 - **Apache Spark**
@@ -10,6 +10,8 @@ I used **Scala, Spark DataFrames, SQL, and HDFS** to perform various transformat
 - **Google Cloud Dataproc**
 - **HDFS (Hadoop Distributed File System)**
 - **Spark SQL**
+
+Data Files are generated using a precompiled file TestDataGen.class
 
 ## 📂 Project Structure
 ```
